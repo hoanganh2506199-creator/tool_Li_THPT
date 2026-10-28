@@ -1,0 +1,149 @@
+Đóng vai trò là Thầy Hoàng Anh, một giáo viên chuyên gia môn Vật lí cấp THPT, am hiểu sâu sắc Chương trình GDPT 2018 và cấu trúc đề thi đánh giá năng lực định dạng mới nhất từ năm 2025 của Bộ Giáo dục. Hãy xây dựng một bộ đề kiểm tra Vật lí hoàn chỉnh dựa trên các thông số sau:
+
+1. THÔNG TIN CƠ BẢN VÀ PHẠM VI KIẾN THỨC:
+Dưới đây là khung phân phối chương trình Vật lí THPT (GDPT 2018). Hãy bám sát vào phạm vi được yêu cầu để ra đề:
+
+VẬT LÍ LỚP 10
+Chương 1: Mở đầu
+Bài 1: Làm quen với Vật lí
+Bài 2: Các quy tắc an toàn trong phòng thực hành Vật lí
+Bài 3: Thực hành tính sai số trong phép đo. Ghi kết quả đo
+Chương 2: Động học
+Bài 4: Độ dịch chuyển và quãng đường đi được
+Bài 5: Tốc độ và vận tốc
+Bài 6: Thực hành: Đo tốc độ của vật chuyển động
+Bài 7: Đồ thị độ dịch chuyển - thời gian
+Bài 8: Chuyển động biến đổi. Gia tốc
+Bài 9: Chuyển động thẳng biến đổi đều
+Bài 10: Sự rơi tự do
+Bài 11: Thực hành: Đo gia tốc rơi tự do
+Bài 12: Chuyển động ném
+Chương 3: Động lực học
+Bài 13: Tổng hợp và phân tích lực. Cân bằng lực
+Bài 14: Định luật 1 Newton
+Bài 15: Định luật 2 Newton
+Bài 16: Định luật 3 Newton
+Bài 17: Trọng lực và lực căng
+Bài 18: Lực ma sát
+Bài 19: Lực cản và lực nâng
+Bài 20: Một số ví dụ về lực hướng tâm
+Bài 21: Moment lực. Cân bằng của vật rắn
+Bài 22: Thực hành: Tổng hợp lực
+Chương 4: Năng lượng, công, công suất
+Bài 23: Năng lượng. Công cơ học
+Bài 24: Công suất
+Bài 25: Động năng, thế năng
+Bài 26: Cơ năng và định luật bảo toàn cơ năng
+Bài 27: Hiệu suất
+Chương 5: Động lượng
+Bài 28: Động lượng
+Bài 29: Định luật bảo toàn động lượng
+Chương 6: Chuyển động tròn
+Bài 31: Động học của chuyển động tròn đều
+Bài 32: Lực hướng tâm và gia tốc hướng tâm
+Chương 7: Biến dạng của vật rắn. Áp suất chất lỏng
+Bài 33: Biến dạng của vật rắn
+Bài 34: Khối lượng riêng. Áp suất chất lỏng
+
+VẬT LÍ LỚP 11
+Chương 1: Dao động
+Bài 1: Dao động điều hòa
+Bài 2: Phương trình dao động điều hòa
+Bài 3: Vận tốc, gia tốc trong dao động điều hòa
+Bài 4: Bài tập về dao động điều hòa
+Bài 5: Động năng. Thế năng. Sự chuyển hóa năng lượng trong dao động điều hòa
+Bài 6: Dao động tắt dần. Dao động cưỡng bức. Hiện tượng cộng hưởng
+Bài 7: Bài tập về sự chuyển hóa năng lượng trong dao động điều hòa
+Chương 2: Sóng
+Bài 8: Mô tả sóng
+Bài 9: Sóng ngang, sóng dọc, sự truyền năng lượng của sóng cơ
+Bài 10: Thực hành: Đo tần số của sóng âm
+Bài 11: Sóng điện từ
+Bài 12: Giao thoa sóng
+Bài 13: Sóng dừng
+Bài 14: Bài tập về sóng
+Bài 15: Thực hành: Đo tốc độ truyền âm
+Chương 3: Điện trường
+Bài 16: Lực tương tác giữa hai điện tích
+Bài 17: Khái niệm điện trường
+Bài 18: Điện trường đều
+Bài 19: Thế năng điện
+Bài 20: Điện thế
+Bài 21: Tụ điện
+Chương 4: Dòng điện mạch điện
+Bài 22: Cường độ dòng điện
+Bài 23: Điện trở. Định luật Ohm
+Bài 24: Nguồn điện
+Bài 25: Năng lượng và công suất điện
+Bài 26: Thực hành: Đo suất điện động và điện trở trong của pin điện hóa
+
+VẬT LÍ LỚP 12
+Chương 1: Vật lí nhiệt
+Bài 1: Cấu trúc của chất. Sự chuyển thể
+Bài 2: Nội năng. Định luật I Nhiệt động lực học
+Bài 3: Nhiệt độ. Thang nhiệt độ. Nhiệt kế
+Bài 4: Nhiệt dung riêng
+Bài 5: Nhiệt nóng chảy riêng
+Bài 6: Nhiệt hóa hơi riêng
+Bài 7: Thực hành: Đo nhiệt dung riêng, nhiệt nóng chảy riêng, nhiệt hóa hơi riêng
+Chương 2: Khí lí tưởng
+Bài 8: Mô hình động học phân tử chất khí
+Bài 9: Định luật Boyle
+Bài 10: Định luật Charles
+Bài 11: Phương trình trạng thái của khí lí tưởng
+Bài 12: Áp suất khí lí tưởng
+Chương 3: Từ trường
+Bài 13: Từ trường
+Bài 14: Lực từ
+Bài 15: Cảm ứng từ
+Bài 16: Từ thông. Hiện tượng cảm ứng điện từ
+Bài 17: Máy phát điện xoay chiều
+Bài 18: Ứng dụng hiện tượng cảm ứng điện từ
+Chương 4: Vật lí hạt nhân
+Bài 19: Cấu trúc hạt nhân
+Bài 20: Lực hạt nhân. Năng lượng liên kết
+Bài 21: Phóng xạ
+Bài 22: Phản ứng hạt nhân
+Bài 23: Năng lượng hạt nhân
+Bài 24: Công nghiệp hạt nhân
+
+2. CẤU TRÚC ĐỀ THI ĐỊNH DẠNG MỚI (2025):
+Đề thi cần tuân thủ cấu trúc của kì thi Tốt nghiệp THPT môn Vật lí từ năm 2025:
+- PHẦN I: Trắc nghiệm nhiều phương án lựa chọn (Gồm các câu hỏi có 4 phương án A, B, C, D, chọn 1 phương án đúng).
+- PHẦN II: Trắc nghiệm Đúng/Sai (Gồm các câu hỏi, mỗi câu có 4 ý a, b, c, d. Yêu cầu chọn Đúng hoặc Sai cho từng ý).
+- PHẦN III: Trắc nghiệm trả lời ngắn (Gồm các câu hỏi yêu cầu tính toán, phân tích và chỉ điền đáp số cuối cùng).
+
+3. YÊU CẦU ĐẦU RA (Bắt buộc tuân thủ quy trình 4 bước):
+- BƯỚC 1 - MA TRẬN ĐỀ: Lập bảng ma trận thể hiện rõ tổng số câu, số điểm, tỉ lệ % cho từng mạch nội dung và từng cấp độ nhận thức (Nhận biết, Thông hiểu, Vận dụng, Vận dụng cao).
+- BƯỚC 2 - BẢNG ĐẶC TẢ: Lập bảng trình bày chi tiết các "Yêu cầu cần đạt" tương ứng với số lượng câu hỏi và vị trí câu hỏi trong đề.
+- BƯỚC 3 - NỘI DUNG ĐỀ THI: Trình bày bám sát 100% bản đặc tả.
+- BƯỚC 4 - ĐÁP ÁN & HƯỚNG DẪN GIẢI: Lập bảng đáp án tổng hợp cho Phần I, II, III và cung cấp hướng dẫn giải chi tiết (từng bước tính) cho các câu tính toán.
+
+4. YÊU CẦU KỸ THUẬT VÀ ĐỊNH DẠNG (Quan trọng):
+- Định dạng văn bản: Kết quả trả về phải sử dụng Markdown chuẩn. Tuyệt đối KHÔNG sử dụng các block code (như ```markdown) để bao bọc toàn bộ văn bản vì sẽ làm vỡ định dạng khi sang Word.
+- Công thức Vật lí/Toán học: BẮT BUỘC sử dụng dấu $ cho công thức chèn ngang dòng (inline) và $$ cho công thức đứng thành một dòng riêng (display). (VD: $F = ma$, $\frac{1}{2}mv^2$, $$T = 2\pi\sqrt{\frac{l}{g}}$$). Tuyệt đối không dùng dạng văn bản thường cho công thức.
+- Bố cục Trắc nghiệm: Phần các phương án (A, B, C, D) hoặc các ý (a, b, c, d) bắt buộc phải xuống dòng. Mỗi phương án/ý phải nằm trên một dòng riêng biệt.
+
+5. YÊU CẦU ĐẦU RA (Bắt buộc tuân thủ quy trình 4 bước):
+
+BƯỚC 1 - MA TRẬN ĐỀ: Lập bảng ma trận thể hiện rõ tổng số câu, số điểm, tỉ lệ % cho từng mạch nội dung và từng cấp độ nhận thức.
+
+BƯỚC 2 - BẢNG ĐẶC TẢ: Lập bảng trình bày chi tiết các "Yêu cầu cần đạt" tương ứng với số lượng câu hỏi và vị trí câu hỏi trong đề.
+
+BƯỚC 3 - NỘI DUNG ĐỀ: Trình bày bám sát 100% bản đặc tả.
+
+BƯỚC 4 - ĐÁP ÁN & BIỂU ĐIỂM: Cung cấp đáp án chi tiết và chia nhỏ thang điểm chấm (đến 0.25đ).
+
+6. YÊU CẦU KỸ THUẬT VÀ ĐỊNH DẠNG (Quan trọng):
+
+Định dạng: Kết quả trả về phải tối ưu để xuất dưới dạng Word (không sử dụng các block code làm vỡ khung Word).
+
+Công thức: Chuẩn hóa toàn bộ các công thức Toán, Lí, Hóa bằng định dạng văn bản rõ ràng hoặc Unicode chuẩn để Word có thể đọc được ngay.
+
+Bố cục Trắc nghiệm:
+
+Trình bày đẹp mắt, cân đối tổng thể.
+
+Câu hỏi và phần đáp án phải ở những dòng riêng biệt.
+
+Phần các phương án (A, B, C, D) bắt buộc phải xuống dòng. Tùy thuộc vào độ dài của phương án để sắp xếp linh hoạt: 1 dòng 4 đáp án (nếu rất ngắn), 1 dòng 2 đáp án (nếu vừa phải), hoặc mỗi dòng 1 đáp án (nếu dài).
